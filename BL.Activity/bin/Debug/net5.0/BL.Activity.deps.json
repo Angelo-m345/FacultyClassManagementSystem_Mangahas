@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BL.Activity/1.0.0": {
+        "dependencies": {
+          "DL.Activity": "1.0.0"
+        },
+        "runtime": {
+          "BL.Activity.dll": {}
+        }
+      },
+      "DL.Activity/1.0.0": {
+        "runtime": {
+          "DL.Activity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BL.Activity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DL.Activity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

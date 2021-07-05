@@ -1,0 +1,15 @@
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\bin\Debug\net5.0\BL.Activity.deps.json
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\bin\Debug\net5.0\BL.Activity.dll
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\bin\Debug\net5.0\ref\BL.Activity.dll
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\bin\Debug\net5.0\BL.Activity.pdb
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\bin\Debug\net5.0\DL.Activity.dll
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\bin\Debug\net5.0\DL.Activity.pdb
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\obj\Debug\net5.0\BL.Activity.csprojAssemblyReference.cache
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\obj\Debug\net5.0\BL.Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\obj\Debug\net5.0\BL.Activity.AssemblyInfoInputs.cache
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\obj\Debug\net5.0\BL.Activity.AssemblyInfo.cs
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\obj\Debug\net5.0\BL.Activity.csproj.CoreCompileInputs.cache
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\obj\Debug\net5.0\BL.Activity.csproj.CopyComplete
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\obj\Debug\net5.0\BL.Activity.dll
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\obj\Debug\net5.0\ref\BL.Activity.dll
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\BL.Activity\obj\Debug\net5.0\BL.Activity.pdb

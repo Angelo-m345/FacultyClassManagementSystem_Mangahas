@@ -1,0 +1,12 @@
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\bin\Debug\net5.0\DL.Activity.deps.json
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\bin\Debug\net5.0\DL.Activity.dll
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\bin\Debug\net5.0\ref\DL.Activity.dll
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\bin\Debug\net5.0\DL.Activity.pdb
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\obj\Debug\net5.0\DL.Activity.csprojAssemblyReference.cache
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\obj\Debug\net5.0\DL.Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\obj\Debug\net5.0\DL.Activity.AssemblyInfoInputs.cache
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\obj\Debug\net5.0\DL.Activity.AssemblyInfo.cs
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\obj\Debug\net5.0\DL.Activity.csproj.CoreCompileInputs.cache
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\obj\Debug\net5.0\DL.Activity.dll
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\obj\Debug\net5.0\ref\DL.Activity.dll
+C:\Users\Ajo Mangahas\source\repos\FCMS_Activity\DL.Activity\obj\Debug\net5.0\DL.Activity.pdb
